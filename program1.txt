@@ -1,1 +1,2 @@
-Hello World!
+Hello
+Welcome to the world of information
